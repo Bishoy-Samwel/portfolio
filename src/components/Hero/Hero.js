@@ -8,13 +8,14 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center >
-        Welcome To <br />
-        My Personal Portfolio
+        Hi, I'm <br />
+        Bishoy Samwel
       </SectionTitle>
       <SectionText>
-        My goal is to add more value to the team I belong to using clean code.
+        React and Rails enthusiast with a keen eye for scalability. 
+        I love software architecture design, chess, and ping pong.
       </SectionText>
-      <Button onClick={() => window.location = '//'}>
+      <Button onClick={() => window.location = 'https://drive.google.com/file/d/1kKOqsEJSorDesm8WFC0EBIF_GLEK2844/view?usp=sharing'}>
         My Resume
       </Button>
     </LeftSection>
