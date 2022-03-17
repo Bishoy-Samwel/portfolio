@@ -43,7 +43,7 @@ const Timeline = () => {
   }, []);
 
   return (
-    <Section id="">
+    <Section id="about">
       <SectionTitle> About Me </SectionTitle>
       <SectionText>
         Full-stack web developer and open-source enthusiast with a love for clean code, optimized solutions, and
