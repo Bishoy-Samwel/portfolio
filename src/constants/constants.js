@@ -29,8 +29,8 @@ export const projects = [
   {
     title: 'SpaceTravelers',
     description: "A web application for a company that provides commercial and scientific space travel services, We have been working with the real live data from the SpaceX API. The application will allow users to book rockets and join selected space missions. The Space Travelers' Hub consists of Rockets, Missions, and the My Profile section.",
-    image: '/images/4.jpg',
-    tags: ['ReactJS', 'CRedux'],
+    image: '/images/space.png',
+    tags: ['ReactJS', 'Redux'],
     source: ' https://github.com/MrBrN197/SpaceTravelers',
     visit: 'https://spacextravellers.herokuapp.com/',
     id: 3,
