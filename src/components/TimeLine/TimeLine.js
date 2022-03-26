@@ -50,7 +50,7 @@ const Timeline = () => {
         accessible design. Pair-programming and remote work aficionado. Fluent in multiple languages, frameworks, and
         technologies, and capable of ramping up quickly and efficiently
       </SectionText>
-      <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
+      {/* <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {
             TimeLineData.map(
@@ -87,7 +87,7 @@ const Timeline = () => {
               </CarouselButton>
             )
             )}
-      </CarouselButtons>
+      </CarouselButtons> */}
     </Section>
   );
 };

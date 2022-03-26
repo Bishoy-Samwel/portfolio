@@ -12,7 +12,7 @@ const data = [
 
 const Acomplishments = () => (
   <Section>
-    <SectionTitle>Personal Acomplishments</SectionTitle>
+    {/* <SectionTitle>Personal Acomplishments</SectionTitle>
     <Boxes>
       {
         data.map(
@@ -23,7 +23,7 @@ const Acomplishments = () => (
       </Box>)
       )
       }
-    </Boxes>
+    </Boxes> */}
   </Section>
 );
 
