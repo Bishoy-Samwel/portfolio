@@ -3,6 +3,7 @@ import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
 
 import { SocialIcons } from '../Header/HeaderStyles';
 import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
+import { FaAngellist } from 'react-icons/fa';
 
 const Footer = () => {
   return (
@@ -21,14 +22,14 @@ const Footer = () => {
         <CompanyContainer>
           <Slogan>Innovating one project at a time</Slogan>
         </CompanyContainer>
-        <SocialIcons href='/'>
+        <SocialIcons href='https://github.com/Bishoy-Samwel'>
           <AiFillGithub size="3rem" />
         </SocialIcons>
-        <SocialIcons href='/'>
+        <SocialIcons href='https://www.linkedin.com/in/bishoy-samwuel-ss'>
           <AiFillLinkedin size="3rem" />
         </SocialIcons>
-        <SocialIcons href='/'>
-          <AiFillInstagram size="3rem" />
+        <SocialIcons href='https://angel.co/u/bishoy-samwel'>
+          <FaAngellist size="3rem" />
         </SocialIcons>
       </SocialIconsContainer>
     </FooterWrapper>
