@@ -12,7 +12,8 @@ const Hero = (props) => (
         Bishoy Samwel
       </SectionTitle>
       <SectionText>
-        React and Rails enthusiast with a keen eye for scalability. 
+        React and Rails enthusiast with a keen eye for scalability, security, simple responsive designs. 
+        <br />
         I love software architecture design, chess, and ping pong.
       </SectionText>
       <Button onClick={() => window.location = 'https://drive.google.com/file/d/1kKOqsEJSorDesm8WFC0EBIF_GLEK2844/view?usp=sharing'}>
