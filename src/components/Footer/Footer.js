@@ -20,7 +20,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Innovating one project at a time</Slogan>
+          <Slogan>I will be glad to help you relase new features, plan for a new project, Feel free to contact me :)</Slogan>
         </CompanyContainer>
         <SocialIcons href='https://github.com/Bishoy-Samwel'>
           <AiFillGithub size="3rem" />

@@ -46,9 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle> About Me </SectionTitle>
       <SectionText>
-        Full-stack web developer and open-source enthusiast with a love for clean code, optimized solutions, and
-        accessible design. Pair-programming and remote work aficionado. Fluent in multiple languages, frameworks, and
-        technologies, and capable of ramping up quickly and efficiently
+        Full-stack web developer and open-source enthusiast with a love for clean code, optimized solutions, and accessible design. Pair-programming and remote work aficionado. Fluent in multiple languages, frameworks, and technologies, and capable of ramping up quickly and efficiently. I am passionate about helping others and sharing my knowledge.
       </SectionText>
       {/* <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
